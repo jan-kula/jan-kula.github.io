@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jan-kula.github.io/sitemap.xml
