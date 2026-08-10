@@ -2,14 +2,14 @@
 layout: about
 title: about me
 permalink: /
-subtitle: Check out what projects I have been up to on my <a href="{projects}">projects tab</a> or check out my <a href="{repositories}">repositories</a> .
+subtitle: Check out what projects I have been up to on my <a href="projects/">projects tab</a> or check out my <a href="repositories/">repositories</a> .
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>my title (lead tech entrepeneur) XD</p>
+    <p>MSc in Applied Mathematics and Computational Sciences, Chalmers University of Technology</p>
     <p></p>
     <p>Gothenburg, Sweden.</p>
 
@@ -33,11 +33,9 @@ This is my website! I am an Applied Mathematics student from Chalmers University
 
 I particularly like finding simple solutions to complex problems. Let that be either illusionas and heursics or other hacky ways to quickly solve something that would otherwise be nearly unsolvable. - Think prerendered graphics, heuristics for finding good-enough solutions for complex optimization problems or hardcoding certain solutios. 
 
-Check out what projects I have been up to on my <a href="{% link _pages/projects.md %}">projects tab</a> or check out my <a href="{% link _pages/repositories.md %}">repositories</a> .
-
 I strive for being an expert in my field and a teacher. I like finance and orgainsational theory.
 
-My motto KISS: [*Keep it simple stupid*]( and keep it Linux loser)
+My motto: KISS [*(Keep It Simple Stupid)*]( and keep it Linux loser).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
