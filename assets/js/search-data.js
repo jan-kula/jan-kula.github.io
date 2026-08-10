@@ -497,7 +497,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/jan-kula-b74b62219", "_blank");
+          window.open("https://www.linkedin.com/in/jankula/", "_blank");
         },
       },{
       id: 'light-theme',
