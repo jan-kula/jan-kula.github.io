@@ -46,8 +46,8 @@ cv:
         location: Gothenburg, Sweden
         start_date: 2023
         end_date: 2025
+        summary: Managed a heavily reduced annual budget while ensuring operations continued to run effectively, thereby gaining practical experience with grant applications and formal reporting to financial backers.
         highlights:
-          - Managed a heavily reduced annual budget while ensuring operations continued to run effectively, thereby gaining practical experience with grant applications and formal reporting to financial backers.
           - As a board member, I contributed to strategic planning and the long-term development of the organization.
           - Learned how to present complex problems in a simple and accessible manner.
 
@@ -113,10 +113,10 @@ cv:
       - name: Swedish 🇸🇪
         summary: "Native"
 
-      - name: English
+      - name: English 🇬🇧
         summary: "Full professional proficiency / Fluent"
 
-      - name: Polish
+      - name: Polish 🇵🇱
         summary: "Professional working proficiency"
 
     Interests:
@@ -124,21 +124,21 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+#    Certificates:
+#      - name: Machine Learning
+#        date: 2018-01-01
+#        issuer: Stanford University
+#        icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+#      - name: Quantum Computing
+#        date: 2018-01-01
+#        issuer: Stanford University
+#        icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+#      - name: Quantum Information
+#        date: 2018-01-01
+#        issuer: Stanford University
+#        icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
