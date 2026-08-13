@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pod creator aid
-description: Executable that uses _**Audacity**_ and ffmpeg that joins an audio file with an image file and creates a "podcast" output .mp4 file. 
+description: Executable that uses Audacity and ffmpeg that joins an audio file with an image file and creates a "podcast" output .mp4 file. 
 img: assets/img/12.jpg
 importance: 1
 category: ""
