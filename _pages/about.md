@@ -35,7 +35,7 @@ I particularly like finding simple solutions to complex problems. Let that be ei
 
 I strive for being an expert in my field and a teacher. I like finance and orgainsational theory.
 
-My motto: KISS [*(Keep It Simple Stupid)*]( and keep it Linux loser).
+My motto: Build it _today_, so that you can fix it _tomorrow_.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
