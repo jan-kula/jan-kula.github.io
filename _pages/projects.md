@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Here are my projects, take a look!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [""] #[work, fun] # You can add categories in a list, make sure to tag them in in the markdown file under _projects.
 horizontal: false
 ---
 
