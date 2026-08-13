@@ -79,11 +79,15 @@ cv:
 #        summary: Awarded for outstanding scientific achievement
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Programming Python
+        level: Intermediate/ Basic
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "scikit-learn, Pandas, NumPy, SciPy, SQL, Git, Bash"
 
+      - name: Mathermatics
+        level: Profficient
+        icon: fa-solid fa-pen
+        keywords: "Mathematical Optimisation, Statistics, Bayesian Statistics, Probability"
     Languages:
       - name: Swedish 🇸🇪
         summary: "Native"
@@ -96,7 +100,7 @@ cv:
 
     Interests:
       - name: Mathematics
-        icon: fa-solid fa-pen #tag
+        icon: fa-solid fa-pen
         keywords: "Statistics, Optimisation"
 #      - name: Electronics
 #        icon: fa-solid fa-tag
