@@ -454,7 +454,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-pod-creator-aid",
           title: 'Pod creator aid',
-          description: "Executable that uses _**Audacity**_ and ffmpeg that joins an audio file with an image file and creates a &quot;podcast&quot; output .mp4 file.",
+          description: "Executable that uses Audacity and ffmpeg that joins an audio file with an image file and creates a &quot;podcast&quot; output .mp4 file.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/podPubbingAid/";
             },},{id: "teachings-data-science-fundamentals",
