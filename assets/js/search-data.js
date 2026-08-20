@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "Repositories",
-          description: "Here are my two repositories. jan-kula, which is my work repo and ExpShare which is my private repo. Check them both, I don&#39;t know which one I will use most.",
+          description: "Here are my two repositories. jan-kula, which is my work repo and ExpShare which is my private repo. Check both of them out!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
