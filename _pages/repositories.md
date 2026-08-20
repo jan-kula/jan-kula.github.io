@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Here are my two repositories. <strong>jan-kula</strong>, which is my <em>work</em> repo and <strong>ExpShare</strong> which is my <em>private</em> repo. Check them both, I don't know which one I will use most.
+description: Here are my two repositories. <strong>jan-kula</strong>, which is my <em>work</em> repo and <strong>ExpShare</strong> which is my <em>private</em> repo. Check both of them out!
 nav: true
 nav_order: 3
 ---
