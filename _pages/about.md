@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about me
+title: About Me
 permalink: /
 subtitle: Check out what projects I have been up to on my <a href="projects/">projects tab</a> or check out my <a href="repositories/">repositories</a> .
 
