@@ -31,7 +31,7 @@ latest_posts:
 
 This is my website! I am an Applied Mathematics student from Chalmers University. I like wroking on small home projects and I enjoy writing secure and robust code. During my studies I had a particular facny in mathematical optimization - where I studied every course in the subject available at my university. Other than this I also enjoyed the high performance compuitng and GPU-accelerated Computational Methods course at Chalmers.
 
-I particularly like finding simple solutions to complex problems. Let that be either illusionas and heursics or other hacky ways to quickly solve something that would otherwise be nearly unsolvable. - Think prerendered graphics, heuristics for finding good-enough solutions for complex optimization problems or hardcoding certain solutios. 
+I particularly like finding simple solutions to complex problems. Let that be either illusionas and heursics or other hacky ways to quickly solve something that would otherwise be nearly unsolvable. - Think prerendered graphics, heuristics for finding good-enough solutions for complex optimization problems or hardcoding certain solutios.
 
 I strive for being an expert in my field and a teacher. I like finance and orgainsational theory.
 
@@ -42,4 +42,3 @@ My motto: Build it _today_, so that you can fix it _tomorrow_.
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-

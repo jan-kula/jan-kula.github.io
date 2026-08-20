@@ -6,7 +6,6 @@ cv:
   image: ""
   summary: "Analytical and technically driven graduate in Technical Mathematics, currently complementing my quantitative background with studies in Industrial Engineering and Management. Experienced in data analysis, machine learning, data pipelines, optimisation, and computational problem-solving using Python, SQL, and scientific computing tools. Through my master’s thesis at Sendify, I worked with large-scale data, developed predictive models, and translated technical results into practical recommendations presented to executive management. I also bring experience in strategic planning, budgeting, and communicating complex concepts clearly through my roles at Intize. I am particularly interested in Data Science, AI, Data Engineering, and technically oriented commercial roles where I can combine strong analytical skills, rapid learning, and clear communication to solve real business problems."
 
-
   social_networks:
     - network: X
       username: AlbertEinstein
@@ -29,7 +28,7 @@ cv:
         highlights:
           - Focused on mathematics, statistics, optimisation, and computational methods, complemented by advanced programming and applied problem-solving.
 
-    Experience:      
+    Experience:
       - company: Sendify
         url: https://www.sendify.com/
         position: Master's Thesis Student
@@ -52,32 +51,32 @@ cv:
           - As a board member, I contributed to strategic planning and the long-term development of the organization.
           - Learned how to present complex problems in a simple and accessible manner.
 
-#    Volunteer:
-#      - company: People's Climate March and April
-#        position: Lead Organizer and Jokester
-#        location: gothenburg, Switzerland
-#        start_date: 2001-04-01
-#        end_date: 1998-07-01
-#        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-#        highlights:
-#          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-#          - "Men of the year 2014 by Time magazine"
+    #    Volunteer:
+    #      - company: People's Climate March and April
+    #        position: Lead Organizer and Jokester
+    #        location: gothenburg, Switzerland
+    #        start_date: 2001-04-01
+    #        end_date: 1998-07-01
+    #        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+    #        highlights:
+    #          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
+    #          - "Men of the year 2014 by Time magazine"
 
-#    Awards:
-#      - title: Nobel Prize in Physics
-#        authors:
-#          - "Royal Swedish Academy of Sciences"
-#        date: 1921-11-01
-#        awarder: Royal Swedish Academy of Sciences
-#        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-#        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    #    Awards:
+    #      - title: Nobel Prize in Physics
+    #        authors:
+    #          - "Royal Swedish Academy of Sciences"
+    #        date: 1921-11-01
+    #        awarder: Royal Swedish Academy of Sciences
+    #        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
+    #        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
 
-#      - title: Max Planck Medal
-#        authors:
-#          - "German Physical Society"
-#        date: 2029
-#        awarder: German Physical Society
-#        summary: Awarded for outstanding scientific achievement
+    #      - title: Max Planck Medal
+    #        authors:
+    #          - "German Physical Society"
+    #        date: 2029
+    #        awarder: German Physical Society
+    #        summary: Awarded for outstanding scientific achievement
 
     Skills:
       - name: Programming Python
@@ -103,36 +102,36 @@ cv:
       - name: Mathematics
         icon: fa-solid fa-pen
         keywords: "Statistics, Optimisation"
-#      - name: Electronics
-#        icon: fa-solid fa-tag
-#        keywords: "Electronic projects, Arduino, RaspBerry, ATMega"
+      #      - name: Electronics
+      #        icon: fa-solid fa-tag
+      #        keywords: "Electronic projects, Arduino, RaspBerry, ATMega"
       - name: Homelabbing
         icon: fa-solid fa-computer
         keywords: "Home NAS, pi-hole, Jellyfin"
       - name: Movies
         icon: fa-solid fa-film
         keywords: "Good movies, Bad movies and Uggly movies"
-#    Certificates:
-#      - name: Machine Learning
-#        date: 2018-01-01
-#        issuer: Stanford University
-#        icon: fa-solid fa-location-dot
+    #    Certificates:
+    #      - name: Machine Learning
+    #        date: 2018-01-01
+    #        issuer: Stanford University
+    #        icon: fa-solid fa-location-dot
 
-#      - name: Quantum Computing
-#        date: 2018-01-01
-#        issuer: Stanford University
-#        icon: fa-solid fa-tag
+    #      - name: Quantum Computing
+    #        date: 2018-01-01
+    #        issuer: Stanford University
+    #        icon: fa-solid fa-tag
 
-#      - name: Quantum Information
-#        date: 2018-01-01
-#        issuer: Stanford University
-#        icon: fa-solid fa-envelope
+    #      - name: Quantum Information
+    #        date: 2018-01-01
+    #        issuer: Stanford University
+    #        icon: fa-solid fa-envelope
 
     Projects:
       - name: "GPU-Accelerated FEM Solver; From Heat Equation to Black–Scholes - [Chalmers](https://www.chalmers.se)"
         summary: Created a solver for the heat eqiation using Finite Element Methods. Used graphics cards in HPC environment to speed up calculations.
         highlights:
-          -  Learned to use Python and GPU-accelerated libraries such as CuPy and Numba CUDA, alongside standard scientific computing tools like SciPy and NumPy.
+          - Learned to use Python and GPU-accelerated libraries such as CuPy and Numba CUDA, alongside standard scientific computing tools like SciPy and NumPy.
           - Gained an understanding of how differences in memory and thread management between the CPU and GPU affect execution, and how algorithms must be adapted and restructured to run efficiently on the GPU.
           - Learned to operate inside of a HPC environment with resource allocation using Bash-scripts.
         start_date: 2025-11
