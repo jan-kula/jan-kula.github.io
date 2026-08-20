@@ -80,7 +80,7 @@ cv:
 
     Skills:
       - name: Programming Python
-        level: Intermediate/ Basic
+        level: Intermediate / Basic
         icon: fa-solid fa-hashtag
         keywords: "scikit-learn, Pandas, NumPy, SciPy, SQL, Git, Bash"
 
@@ -110,7 +110,7 @@ cv:
         keywords: "Home NAS, pi-hole, Jellyfin"
       - name: Movies
         icon: fa-solid fa-film
-        keywords: "Good movies, Bad movies and Uggly movies"
+        keywords: "Good movies, Bad movies and Ugly movies"
     #    Certificates:
     #      - name: Machine Learning
     #        date: 2018-01-01
