@@ -128,7 +128,8 @@ cv:
     #        icon: fa-solid fa-envelope
 
     Projects:
-      - name: "GPU-Accelerated FEM Solver; From Heat Equation to Black–Scholes - [Chalmers](https://www.chalmers.se)"
+      - name: "GPU-Accelerated FEM Solver; From Heat Equation to Black–Scholes - Chalmers"
+        url: "https://github.com/ExpShare/FEM-HeatEquation2D"
         summary: Created a solver for the heat eqiation using Finite Element Methods. Used graphics cards in HPC environment to speed up calculations.
         highlights:
           - Learned to use Python and GPU-accelerated libraries such as CuPy and Numba CUDA, alongside standard scientific computing tools like SciPy and NumPy.
@@ -137,7 +138,7 @@ cv:
         start_date: 2025-11
         end_date: 2026-01
 
-      - name: Predicting Molecular Fragmentation Using Graph-to-Graph Models - [AstraZeneca](https://www.astrazeneca.com/)
+      - name: "Predicting Molecular Fragmentation Using Graph-to-Graph Models - AstraZeneca"
         summary: In a group of three, reasearched ... and tried to reverse engineer an existing Graph Neural Network used for predicting molecular synthesys to fit our need of predicting molecular fragmentations.
         highlights:
           - Used Python to adapt existing graph-based neural network for our purpose.
@@ -147,7 +148,8 @@ cv:
         end_date: 2025-01
 
     References:
-      - name: Erik.... Senior Software Developer
+      - name: Erik Öhrn - Engineering Manager - Sendify
+        url: https://careers.sendify.se/people/708893-erik-ohrn
         icon: fa-solid fa-laptop
         reference: ""
 
